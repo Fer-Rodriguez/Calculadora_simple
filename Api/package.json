@@ -1,0 +1,18 @@
+{
+    "name": "calculadora",
+    "version": "1.0.0",
+    "description": "calculadora sencilla",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "calculadora"
+    ],
+    "author": "Fernando de la Torre",
+    "license": "MIT",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1"
+    }
+}
